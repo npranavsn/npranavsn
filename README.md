@@ -1,6 +1,5 @@
-- 👋 Hi, I’m pranav s nair 
-- 🌱 Just a beginner 
-- 📫 How to reach me npranavsn@gmail.com
+<h1> Welcome to my profile </h1>
+<b1> Name: Pranav </b1>
 
 <!---
 npranavsn/npranavsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
