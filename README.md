@@ -4,4 +4,4 @@ I'm Pranav S Nair a college-going student, currently pursuing ECE engineering. I
 📫 Reach me out!
 
 ![TwitterBadge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_PranavSNair&style=for-the-badge&logo=X&labelColor=%23000000&color=%23000000)
-![Mail}(
+
