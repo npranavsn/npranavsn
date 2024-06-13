@@ -1,7 +1,19 @@
-## Hi I'm Pranav <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-I'm Pranav S Nair a college-going student, currently pursuing ECE engineering. I spend most of my time Gaming & learning coding :).
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=npranavsn.npranavsn"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranav+Nair!;" />
+</h1>
+<h3 align="center">A passionate coder from India </h3>
+<div align="left">
+ 
+ 🔭 I’m currently working on pursuing Engineering
+ 
+ 🌱 I’m currently learning **Python**
 
-📫 Reach me out!
+⚡ Fun fact **A Formula One car can go from zero to 160 kph in just four seconds.**
 
-![TwitterBadge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_PranavSNair&style=for-the-badge&logo=X&labelColor=%23000000&color=%23000000)
+ </div>
+                                                       📫 Reach me out!
+<div align="center"> 
+  <a href="mailto:npranavsn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
